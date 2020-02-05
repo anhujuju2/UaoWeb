@@ -7,4 +7,23 @@
 .o-img
 {
     width: 20%;
+    background-color: cornsilk;
+}
+.o-title-container
+{
+    font-family: cursive;
+    font-size: 16px;
+}
+.o-subtitle-container
+{
+    font-size: 12px;
+}
+.o-hobby-container
+{
+    width: 20%;
+    background-color: #000000;
+    margin: 1rem;
+    padding: 1rem;
+    color:  #ffffff;
+
 }
